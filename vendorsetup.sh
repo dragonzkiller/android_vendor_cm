@@ -3,6 +3,7 @@ add_lunch_combo cm_captivatemtd-userdebug
 add_lunch_combo cm_coconut-userdebug
 add_lunch_combo cm_crespo-userdebug
 add_lunch_combo cm_crespo4g-userdebug
+add_lunch_combo cm_daytona-userdebug
 add_lunch_combo cm_epicmtd-userdebug
 add_lunch_combo cm_e730-userdebug
 add_lunch_combo cm_e739-userdebug
